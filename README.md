@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **CSY-Betty/CSY-Betty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h3 align="left">Hi 👋, I'm Betty Chen</h1>
+<h4 align="left">A back-end engineer, actively enhancing my skills and abilities.</h3>
+
+
+
+<h3 align="left">Languages and Tools:</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=py,js,html,css,django,flask,docker,aws,mongodb,mysql,nginx,git&theme=light&perline=10)](https://skillicons.dev)
